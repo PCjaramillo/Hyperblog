@@ -39,3 +39,14 @@ body {
 #llave{
     color: red;
 }
+footer{
+    width: 74.5%;
+    background-color: aqua;
+    text-align: left;
+    border: 1px solid black;
+    margin: 0 auto;
+   
+}
+footer h1{
+    text-align: center;
+}
